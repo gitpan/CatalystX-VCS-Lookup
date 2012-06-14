@@ -1,0 +1,9 @@
+^\.hg\/
+^\.hgignore
+Makefile$
+^blib
+^cache/
+^pm_to_blib
+^.*.bak
+^.*.old
+^.*\.swp$
